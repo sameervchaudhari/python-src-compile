@@ -18,4 +18,4 @@ jobs:
         python-version: '3.10'  # Specify the Python version
 
     - name: Run script
-      run: python your_script.py
+      run: python main.py
